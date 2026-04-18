@@ -168,7 +168,7 @@ const Index = () => {
           <footer className="mt-16 text-center space-y-2">
             <div className="flex items-center justify-center gap-2 text-xs text-muted-foreground">
               <span className="h-px w-6 bg-border" />
-              <p>© 2024 Jill's American English</p>
+              <p>© 2026 Jill's American English</p>
               <span className="h-px w-6 bg-border" />
             </div>
             <p className="text-muted-foreground/50 text-xs">Share this page with your students to access all resources.</p>
